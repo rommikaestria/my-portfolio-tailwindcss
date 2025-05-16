@@ -4,8 +4,6 @@ import About from './pages/About';
 import Projects from './pages/Projects';
 import Header from './components/Header.jsx';
 import Footer from './components/Footer.jsx';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css';
 
 function App() {
