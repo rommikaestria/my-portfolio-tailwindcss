@@ -8,7 +8,7 @@ const About = () => {
       </header>
       <section className="mb-5">
         <div className="row justify-content-center">
-          <div className="col-md-8">
+          <div className="col-12 col-md-8">
             <div className="card shadow-sm border-0">
               <div className="card-body">
                 <p className="fs-5">
